@@ -19,7 +19,7 @@ public class CdprojectApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello World!";
+		return "Welcome to Continuous delivery!";
 	}
 
 
